@@ -10,3 +10,4 @@ A beginner-friendly repository to make your first open-source contribution.
 > Add **only your name** below
 
 - aditya-dev-07
+- ozalwaraditya
